@@ -34,6 +34,13 @@ const HeroSection = () => {
     '/show-banners/swahilipot-aroma.png',
     '/show-banners/swahilipot-drive.png',
     '/show-banners/mikuki-ya-maneno.png',
+    '/show-banners/beyond-balot.jpeg',
+    '/show-banners/request-hour.png',
+    '/show-banners/kickoff.png',
+    '/show-banners/the-friday-rave.png',
+    '/show-banners/swahilipot-mixes.png',
+    '/show-banners/the-night-shift.png',
+    '/show-banners/teenz-connect.png',
   ];
 
   return (
