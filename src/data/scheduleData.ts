@@ -87,9 +87,9 @@ export const allShows: Show[] = [
   {
     id: 'teenz-connect',
     title: 'Teenz Connect',
-    host: 'Nashpae Koikai, Fridah Mnyazi',
+    host: 'Fridah Mnyazi, Nashpae Koikai',
     description:
-      'A dynamic teen-focused show designed for listeners aged 12–17 years, featuring engaging discussions, educational content, entertainment, life skills, trending topics, and interactive audience participation.',
+      '​The ultimate Saturday hangout for the next generation! Hosted by Fridah Mnyazi and Nashipae Kokai, Teenz Connect is a high-octane, interactive space built specifically for minds aged 13-19. We’re diving deep into real youth conversations, dropping major educational gems, and serving up the freshest entertainment !',
     image: '/show-banners/teenz-connect.png',
     category: 'Teens Show',
     days: ['Saturday'],
