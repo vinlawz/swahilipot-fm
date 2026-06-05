@@ -53,14 +53,14 @@ export const presenters: Presenter[] = [
     showIds: ['swahilipot-cafe'],
   },
   {
-    id: 'dj-kams',
-    name: 'DJ Kams',
+    id: 'vdj-kams',
+    name: 'VDJ Kams',
     role: 'Show DJ',
     image: '/presenters/dj_kams.jpg',
     email: 'kams@swahilipot.fm',
-    bio: 'Dj Kams is the co-host and DJ for the Swahilipot Cafe show. With his infectious energy and engaging personality, \
-      Dj Kams has become a beloved voice in the community. He brings a wealth of experience to the airwaves, having worked in radio for over \
-      a decade. Dj Kams is passionate about social justice and community empowerment, and he uses his platform to raise awareness of important \
+    bio: 'VDJ Kams is the co-host and DJ for the Swahilipot Cafe show. With his infectious energy and engaging personality, \
+      VDJ Kams has become a beloved voice in the community. He brings a wealth of experience to the airwaves, having worked in radio for over \
+      a decade. VDJ Kams is passionate about social justice and community empowerment, and he uses his platform to raise awareness of important \
       issues. In his free time, he enjoys hiking, reading, and spending time with his family.',
     socialLinks: {
       youtube: 'https://www.youtube.com/@vdjkams',
