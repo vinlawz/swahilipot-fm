@@ -116,7 +116,7 @@ export const allShows: Show[] = [
     host: 'DJ Spinking',
     description:
       'Ride the Saturday night wave with DJ Spinking as he drops the best mixes, club hits, and party anthems to keep the night alive.',
-    image: '/show-banners/the-friday-rave.png',
+    image: '/show-banners/saturday rave.jpeg',
     category: 'Music',
     days: ['Saturday'],
     startTime: '19:00',
