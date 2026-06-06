@@ -34,7 +34,7 @@ export const allShows: Show[] = [
   {
     id: 'kick-off',
     title: 'Kick Off',
-    host: 'Japheth Makanaki, Salim Barissa',
+    host: 'Japheth Makanaki, Brian Tumaini, Austin Moraiz',
     description:
       'Get updated with the highlights of the latest sports news and results, with expert analysis and interviews with sports personalities.',
     image: '/show-banners/kickoff.png',
@@ -74,7 +74,7 @@ export const allShows: Show[] = [
   {
     id: 'mikuki-ya-maneno',
     title: 'Mikuki ya Maneno',
-    host: 'Malenga001, Cardiac Poet',
+    host: 'Cardiac Poet, Ali Da Artist',
     description:
       "Enjoy a mix of poetry and music with Malenga001 and Cardiac Poet, as they share artists' latest works and favorite tracks.",
     image: '/show-banners/mikuki-ya-maneno.png',
@@ -85,9 +85,22 @@ export const allShows: Show[] = [
     tags: ['Poetry', 'Music'],
   },
   {
+    id: 'teenz-connect',
+    title: 'Teenz Connect',
+    host: 'Fridah Mnyazi, Nashpae Koikai',
+    description:
+      '​The ultimate Saturday hangout for the next generation! Hosted by Fridah Mnyazi and Nashipae Kokai, Teenz Connect is a high-octane, interactive space built specifically for minds aged 13-19. We’re diving deep into real youth conversations, dropping major educational gems, and serving up the freshest entertainment !',
+    image: '/show-banners/teenz-connect.png',
+    category: 'Teens Show',
+    days: ['Saturday'],
+    startTime: '10:00',
+    endTime: '12:00',
+    tags: ['Teens', 'Education', 'Entertainment', 'Interactive'],
+  },
+  {
     id: 'kick-off-saturday',
     title: 'Kick Off',
-    host: 'Japheth Makanaki, Salim Barissa',
+    host: 'Japheth Makanaki, Brian Tumaini, Austin Moraiz',
     description:
       'Get updated with the highlights of the latest sports news and results, with expert analysis and interviews with sports personalities.',
     image: '/show-banners/kickoff.png',
@@ -113,9 +126,9 @@ export const allShows: Show[] = [
   {
     id: 'the-night-shift',
     title: 'The Night Shift',
-    host: 'Tonny Omuga, Mama Zakiya',
+    host: 'Bahati Ngazi, Mama Zakiya',
     description:
-      'Dive into all matters surrounding relationships and their ups and downs with Tonny Omuga and Mama Zakiya as they give you insights into how relationships take different faces throughout different generations',
+      'Dive into all matters surrounding relationships and their ups and downs with Mama Zakiya and Bahati Ngazi as they give you insights into how relationships take different faces throughout different generations',
     image: '/show-banners/the-night-shift.png',
     category: 'Talk Show',
     days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
@@ -132,7 +145,7 @@ export const allShows: Show[] = [
     image: '/show-banners/the-friday-rave.png',
     category: 'Music',
     days: ['Friday'],
-    startTime: '19:00',
+    startTime: '21:00',
     endTime: '22:00',
     tags: ['Live Music', 'Song', 'Entertainment'],
   },

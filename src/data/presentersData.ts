@@ -53,14 +53,14 @@ export const presenters: Presenter[] = [
     showIds: ['swahilipot-cafe'],
   },
   {
-    id: 'dj-kams',
-    name: 'DJ Kams',
+    id: 'vdj-kams',
+    name: 'VDJ Kams',
     role: 'Show DJ',
     image: '/presenters/dj_kams.jpg',
     email: 'kams@swahilipot.fm',
-    bio: 'Dj Kams is the co-host and DJ for the Swahilipot Cafe show. With his infectious energy and engaging personality, \
-      Dj Kams has become a beloved voice in the community. He brings a wealth of experience to the airwaves, having worked in radio for over \
-      a decade. Dj Kams is passionate about social justice and community empowerment, and he uses his platform to raise awareness of important \
+    bio: 'VDJ Kams is the co-host and DJ for the Swahilipot Cafe show. With his infectious energy and engaging personality, \
+      VDJ Kams has become a beloved voice in the community. He brings a wealth of experience to the airwaves, having worked in radio for over \
+      a decade. VDJ Kams is passionate about social justice and community empowerment, and he uses his platform to raise awareness of important \
       issues. In his free time, he enjoys hiking, reading, and spending time with his family.',
     socialLinks: {
       youtube: 'https://www.youtube.com/@vdjkams',
@@ -95,7 +95,7 @@ export const presenters: Presenter[] = [
     socialLinks: {
       youtube: 'https://www.youtube.com/@Djspinking',
     },
-    showIds: ['swahilipot-drive-show', 'the-friday-rave'],
+    showIds: ['the-friday-rave', 'swahilipot-drive-show'],
   },
   {
     id: 'josh-the-curator',
@@ -103,11 +103,11 @@ export const presenters: Presenter[] = [
     role: 'Host',
     image: '/presenters/josh_wekesa.jpg',
     email: 'josh@swahilipot.fm',
-    bio: 'Josh, The Curator a host of the Swahilipot Drive show and the main host of the Request Hour',
+    bio: 'Josh, The Curator a host of The Breakfast Club and the main host of the Request Hour',
     socialLinks: {
       instagram: 'https://www.instagram.com/joshthecurator_/',
     },
-    showIds: ['swahilipot-drive-show', 'request-hour'],
+    showIds: ['The Breakfast Club', 'request-hour'],
   },
   {
     id: 'mama-zakiya',
@@ -135,6 +135,24 @@ export const presenters: Presenter[] = [
     email: 'shufaa@swahilipot.fm',
     bio: 'Shufaa Yakut is the host of Swahilipot Aroma, a show that explores the rich cultural heritage of the Swahili coast through music, stories, and interviews.',
     showIds: ['swahilipot-aroma'],
+  },
+  {
+    id: 'nashpae-koikai',
+    name: 'Nashpae Koikai',
+    role: 'Journalist & Teenz Connect Presenter',
+    image: '/presenters/nashpae_koikai.jpg',
+    email: 'nashpae@swahilipot.fm',
+    bio: 'Nashpae Koikai is a certified journalist with a background in Journalism and Mass Communication. She is a radio presenter on Teenz Connect, where she engages young audiences on issues that matter to them. In addition to her role as a presenter, she works as a news reporter and occasionally serves as a news anchor. Nashpae is also a content creator, using her social media platforms to inform, educate, and connect with her audience through engaging digital content. She is also a producer of Swahilipot Aroma, where she contributes to shaping and coordinating program content.',
+    showIds: ['teenz-connect', 'swahilipot-aroma'],
+  },
+  {
+    id: 'fridah-mnyazi',
+    name: 'Fridah Mnyazi',
+    role: 'Host',
+    image: '/presenters/fridah_mnyazi.jpg',
+    email: 'fridah@swahilipot.fm',
+    bio: "Meet Fridah Mnyazi — a communications practitioner whose bubbly and fun personality shines both on and off the air. When she's not connecting with friends over good food, she's always armed with the latest gist for her listeners. As the host of the Teenz Connect program, she leads the conversation on teen issues, keeps the energy high with top showbiz trends, tests the mind with fun brain teasers, and celebrates listeners during the Birthday Kona. This talk show is packed with non-stop fun and great music.",
+    showIds: ['teenz-connect'],
   },
 ];
 

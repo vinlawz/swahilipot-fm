@@ -17,6 +17,12 @@ export const featuredShows = [
     time: 'Weekdays • 11 AM - 2 PM',
     image: '/show-banners/swahilipot-cafe.jpeg',
   },
+  {
+    title: 'Teenz Connect',
+    host: 'Samwel Mutethia, Nashpae Koikai, Fridah Mnyazi',
+    time: 'Saturdays • 10 AM - 12 PM',
+    image: '/show-banners/teenz-connect.png',
+  },
 ];
 
 // Mock data for latest news
